@@ -2,7 +2,11 @@ html {
   font-family: 'Miriam Libre', sans-serif;
 }
 body {
-  font-size: 100%;
+  width: 800px;
+  margin: 0 auto;
+  background-color: #ffffff;
+  border: 5px solid black;
+}
 }
 
 h1 {
