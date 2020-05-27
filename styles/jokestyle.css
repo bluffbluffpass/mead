@@ -1,25 +1,26 @@
 html {
-  font-family: 'Miriam Libre', sans-serif;
-}
-body {
-  width: 888px;
-  margin: 0 auto;
-  background-color: #ffffff;
-  border: 5px solid black;
-}
-}
-
-h1 {
-  font-size: 2.5em;
-}
-
-h2 {
-  font-size: 1.875em;
-}
-
-p {
-  font-size: 0.875em;
-}
-li {
-	font-size: 1em;
-}
+    font-family: 'Miriam Libre', sans-serif;
+  }
+  body {
+    width: 800px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    border: 5px solid black;
+  }
+  }
+  
+  h1 {
+    font-size: 2.5em;
+  }
+  
+  h2 {
+    font-size: 1.875em;
+  }
+  
+  p {
+    font-size: 0.875em;
+  }
+  li {
+      font-size: 1em;
+  }
+  
