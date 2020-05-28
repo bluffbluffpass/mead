@@ -19,6 +19,7 @@ h2 {
    font-variant: small-caps;
    padding-left: 15px;
    padding-right: 15px;
+   overflow-wrap: break-word;
 }
 h3 {
    font-size: 1em;
@@ -26,10 +27,12 @@ h3 {
    font-variant: small-caps;
    padding-left: 15px;
    padding-right: 15px;
+   overflow-wrap: break-word;
 }
 p {
   font-size: 0.875em;
   color: #000000;
+  overflow-wrap: break-word;
 }
 ul {
    list-style-type: none;
